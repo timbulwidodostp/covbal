@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'covbal': Covariate balance statistics Use covbal With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F covbal.ado
+F covbal.sthlp
