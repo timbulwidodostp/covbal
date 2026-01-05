@@ -1,6 +1,8 @@
 # covbal
 Covariate balance statistics Use covbal With STATA 19
 
+https://www.youtube.com/watch?v=kwICk-HKC3o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
